@@ -10,7 +10,6 @@ git clone https://github.com/kdandy/bookmark
 
 ## Demo and Documentation
 
-- Open the [demo page](https://responsivetoekang.netlify.app/)
 - Open the [source code](http://github.com/kdandy/bookmark)
 
 ### Note
